@@ -35,4 +35,4 @@ We welcome contributions from the community. To contribute, please follow these 
 4. Submit a pull request.
 
 ## License
-SinReady is licensed under the [MIT License](LICENSE).
+SinReady is licensed under [Sinner Terms Of Services](LICENSE).
