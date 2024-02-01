@@ -36,3 +36,8 @@ We welcome contributions from the community. To contribute, please follow these 
 
 ## License
 SinReady is licensed under [Sinner Terms Of Services](LICENSE).
+
+
+
+# THIS IS CURRENTLY NOT WORKING IF YOU CREATE AN ISSUE IT WILL AUTOMATICALLY BE CLOSED.
+I haven't made the raw website path and Namecheap is fucking me over
