@@ -6,7 +6,7 @@
 
 
 # SinReady!
-The Best Portable I-Ready Cheat To Soove Your Nerves With Being Open Source, And Having Minute Farmer, Lesson Skipper, Quiz Jumper `(50-100% Grade Giver)`,Admin Menu, And Diagnostic Hack `(caps at 900%)`
+The Best Portable I-Ready Cheat To Soove Your Nerves With Being , And Having Minute Farmer, Lesson Skipper, Quiz Jumper `(50-100% Grade Giver)`,Admin Menu, And Diagnostic Hack `(caps at 900%)`
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
@@ -37,7 +37,7 @@ We welcome contributions from the community. To contribute, please follow these 
 ## License
 SinReady is licensed under [Sinner Terms Of Services](LICENSE).
 
-
+This Shit is no Longer open source because I'm spending to much time in school dedicating my life to it and my grades are c,d, and f so please if you want the source contact me on discord 15.rupic.15 (10$) **AND YOU MUST SIGN A NDA IF YOU RESELLMY SOURCE I WILL SUE YOU!!!**
 
 # THIS IS CURRENTLY NOT WORKING IF YOU CREATE AN ISSUE IT WILL AUTOMATICALLY BE CLOSED.
 I haven't made the raw website path and Namecheap is fucking me over
